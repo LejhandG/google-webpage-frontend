@@ -1,0 +1,254 @@
+body {
+    background-color: #202124;
+}
+.header {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+.gmail {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    right: 179px;
+    top: 23px;
+}
+.gmail:hover {
+    text-decoration: underline;
+}
+.images-google {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    right: 121px;
+    top: 23px;
+}
+.images-google:hover {
+    text-decoration: underline;
+}
+.accpfp {
+    position: absolute;
+    right: 13px;
+    top: 9.2px;
+    border-radius: 50%;
+    border: solid transparent 5px;
+}
+.accpfp:hover {
+    border: solid 5px;
+    border-color: #323236;
+    cursor: pointer;
+}
+.dot-icon {
+    fill: white;
+    height: 24px;
+    position: absolute;
+    background-color: transparent;
+    border-radius: 50%;
+    border: transparent 7px solid;
+    position: absolute;
+    right: 63px;
+    top: 12px;
+}
+.dot-icon:hover {
+    background-color: #323236;
+    border: #323236 7px solid;
+    cursor: pointer;
+}
+.main-logo {
+    height: 92px;
+    position: absolute;
+    top: 153.5px;
+    left: 632px;
+}
+.search {
+    background-color: #202124;
+    border: solid #4d4f54 1px;
+    width: 436px;
+    height: 43px;
+    border-radius: 30px;
+    position: absolute;
+    left: 476px;
+    top: 272px;
+    color: white;
+    padding-left: 46px;
+    padding-right: 100px;
+    font-size: 16px;
+}
+.search:hover {
+    background-color: #303134;
+    border: solid #303134 1px;
+}
+.searchglass {
+    height: 20px;
+    position: absolute;
+    left: 490px;
+    top: 284px;
+}
+.micicon {
+    height: 31px;
+    position: absolute;
+    top: 278.8px;
+    right: 529.1px;
+}
+.micicon:hover {
+    cursor: pointer;
+}
+.cameraicon {
+    height: 18px;
+    position: absolute;
+    right: 495px;
+    top: 284.8px;
+}
+.cameraicon:hover {
+    cursor: pointer;
+}
+.searchbutton {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    background: #303134;
+    padding: 8.6px 16px 8.6px 16px;
+    text-decoration: none;
+    border: solid 1px transparent;
+    position: absolute;
+    left: 627px;
+    top: 348.5px;
+  }
+  
+  .searchbutton:hover {
+    background: #303134;
+    text-decoration: none;
+    border: #4d4f54 solid 1px;
+    cursor: pointer;
+  }
+  .luckybutton {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    background: #303134;
+    padding: 8.6px 16px 8.6px 16px;
+    text-decoration: none;
+    border: solid 1px transparent;
+    position: absolute;
+    right: 627px;
+    top: 348.5px;
+  }
+  
+  .luckybutton:hover {
+    background: #303134;
+    text-decoration: none;
+    border: #4d4f54 solid 1px;
+    cursor: pointer;
+  }
+  .language {
+    color: #bdc1c6;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 396px;
+    left: 501px;
+  }
+  .lang-link {
+    text-decoration: none;
+    color: #8ab4f8;
+  }
+  .upper-footer {
+    background-color: #171717;
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    bottom: 46px;
+    left: 0;
+  }
+  .lower-footer {
+    background-color: #171717;
+    height: 45px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-top: #393a3d 1px solid;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+  }
+  .country {
+    color: #9aa0a6;
+    padding: 1px 30px;
+    font-family: arial, sans-serif;
+    font-size: 15px;
+  }
+  .about {
+    position: absolute;
+    bottom: 15px;
+    left: 35px;
+    text-decoration: none;
+    color: #999da2;
+  }
+  .about:hover {
+    text-decoration: underline;
+  }
+  .advertising {
+    position: absolute;
+    bottom: 15px;
+    left: 102px;
+    text-decoration: none;
+    color: #999da2;
+  }
+  .advertising:hover {
+    text-decoration: underline;
+  }
+  .business {
+    position: absolute;
+    bottom: 15px;
+    left: 201px;
+    text-decoration: none;
+    color: #999da2;
+  }
+  .business:hover {
+    text-decoration: underline;
+  }
+  .searchworks {
+    position: absolute;
+    bottom: 15px;
+    left: 288px;
+    text-decoration: none;
+    color: #999da2;
+  }
+  .searchworks:hover {
+    text-decoration: underline;
+  }
+  .privacy {
+    position: absolute;
+    bottom: 15px;
+    right: 184px;
+    text-decoration: none;
+    color: #999da2;
+  }
+  .privacy:hover {
+    text-decoration: underline;
+  }
+  .terms {
+    position: absolute;
+    bottom: 15px;
+    right: 115px;
+    text-decoration: none;
+    color: #999da2;
+  }
+  .terms:hover {
+    text-decoration: underline;
+  }
+  .settings {
+    position: absolute;
+    bottom: 15px;
+    right: 35px;
+    text-decoration: none;
+    color: #999da2;
+  }
+  .settings:hover {
+    text-decoration: underline;
+  }
